@@ -1,7 +1,7 @@
 
 .hero_bg{
     height:150vh;
-    background: url("Images/mountain.jpg");
+    background: url("Images/mountain.png");
     background-size: cover;
     position: relative;
     background-attachment: fixed;
